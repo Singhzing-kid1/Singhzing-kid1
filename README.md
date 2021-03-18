@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [1]: <https://docs.microsoft.com/en-us/dotnet/csharp/> (C#)
 [2]: <https://www.python.org> (Python)
 [3]: <https://www.javascript.com> (JavaScript)
-[4]: <contact@singhzing.com> (My Email)
+[4]: <mailto://contact@singhzing.com> (My Email)
